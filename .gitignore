@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+DiscordStoreBot.zip
+store_bot.db
+g2g_test.py
+g2g_test2.py
+g2g_test3.py
+g2g_*.html
